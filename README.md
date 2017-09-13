@@ -9,4 +9,5 @@ Download a virtual server to use for trials on PhP
   - Sulime text
   - brackets (web design)
   - atom
+## Step 2 Tutorial on PhP
 -In PHP always start the name of variable with a letter and do not use special characters on them
