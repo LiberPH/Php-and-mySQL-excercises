@@ -10,5 +10,5 @@ Download a virtual server to use for trials on PhP
   - brackets (web design)
   - atom
 ## Step 2 Tutorial on PhP
-- In PHP always start the name of variable with a letter (not with a number) and do not use special characters on them
+- In PHP always start the name of variable with a letter (not with a number) and do not use special characters on them (see variables.php in the folder tutorials).
 - PhP accepts html code in the echo calls
