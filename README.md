@@ -13,3 +13,8 @@ Download a virtual server to use for trials on PhP
 - In PHP always start the name of variable with a letter (not with a number) and do not use special characters on them (see variables.php in the folder tutorials).
 - PhP accepts html code in the echo calls
 -Contants can be defined in the following way in PhP: define("Frida","pinta")
+-PhP has operators that compare if two variables are equal (or diferent and the same kind of data
+ - === equal and same kind of data (float, int, etc)
+ - !== different and/or different kind of data
+ - <> same as !=
+ - Increase (++) works slightly different in pHp than in other languages (see incement_decrement.php).
